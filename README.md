@@ -22,7 +22,7 @@
  
 
 # Project Links - 
- Project Url - https://norbu-s.github.io/Weather-App2/Index.html
+ Project Url - https://norbu-s.github.io/Weather-App2/
  Github Repository - https://github.com/norbu-s/Weather-App2
 
 # Application Screenshots.
